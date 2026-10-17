@@ -106,4 +106,4 @@ To run the project in your local environment, follow these steps:
 
 ## 📽️ Video
 
-[![Watch the video](https://img.youtube.com/vi/3TQ8KpqaiMk&t=56s/hqdefault.jpg)](https://www.youtube.com/watch?v=3TQ8KpqaiMk&t=56s)
+[**Watch the video!**](https://www.youtube.com/watch?v=3TQ8KpqaiMk&t=56s)
