@@ -7,11 +7,11 @@ A 3D sailing roguelike built with Blueprints in Unreal Engine 5. I worked on the
 - `Unreal Engine 5`
 - `Blueprints`
 - `UMG (Unreal Motion Graphics)`
+- `Scrumwise`
 - `Lospec500 Colour Palette`
 - `Germania One Font`
 - `Easy Input Prompts by Nerwy`
-- `Scrumwise`
-- `Discord`
+
 
 ## ⚙️ Features
 
