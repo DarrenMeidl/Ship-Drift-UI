@@ -2,6 +2,8 @@
 
 A 3D sailing roguelike built with Blueprints in Unreal Engine 5. I worked on the game as the UI Designer, UI Developer, and Scrum Master at 3Bee. This README focuses on the user interface: the HUD, menus, and the systems behind them.
 
+You can find all UI artifacts [**here!**](https://mahara.dkit.ie/view/view.php?t=16369b9996cf264c1b53)
+
 ## 📦 Technologies
 
 - `Unreal Engine 5`
